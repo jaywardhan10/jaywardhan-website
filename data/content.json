@@ -1,0 +1,119 @@
+{
+  "profile": {
+    "name": "Jaywardhan Jadhav",
+    "title": "Senior Software Engineer",
+    "eyebrow": "Frontend / UI Developer",
+    "tagline": "12+ years building responsive, scalable, user-centric web interfaces",
+    "yearsExperience": "12+",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "email": "jaywardhan10@gmail.com",
+    "phone": "8975007110",
+    "linkedin": "https://www.linkedin.com/in/jaywardhan-jadhav-434311104/",
+    "summary": "Frontend/UI engineer with 12+ years of experience building responsive, scalable, user-centric web interfaces using HTML5, CSS3, JavaScript, jQuery, and React.js. Progressed from UI Developer to Manager, UI Development, leading a small team while continuing to ship production front-end code for third-party client projects. Currently a Senior Software Engineer at Simplify Healthcare, contributing front-end expertise to healthcare technology products.",
+    "photoUrl": null,
+    "cvUrl": null
+  },
+  "roles": [
+    "Senior Software Engineer",
+    "Frontend / UI Developer",
+    "React.js Engineer",
+    "UI Team Lead"
+  ],
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "JavaScript",
+    "jQuery",
+    "React.js",
+    "Responsive Web Design",
+    "Cross-Browser Compatibility",
+    "UI Development",
+    "Team Leadership",
+    "Client / Cross-functional Collaboration",
+    "Git"
+  ],
+  "experience": [
+    {
+      "company": "Simplify Healthcare",
+      "formerlyKnownAs": "",
+      "title": "Senior Software Engineer",
+      "location": "Pune, Maharashtra, India",
+      "startDate": "2025-09",
+      "endDate": "",
+      "current": true,
+      "description": "Contributing front-end engineering expertise to healthcare technology products.",
+      "note": "Coming soon — specific project details will be added once available."
+    },
+    {
+      "company": "Setoo",
+      "formerlyKnownAs": "Geexu",
+      "title": "Manager, UI Development",
+      "location": "Pune Area, India",
+      "startDate": "2024",
+      "endDate": "2025",
+      "current": false,
+      "description": "Led a team of 2 UI developers, overseeing day-to-day front-end development work and code quality across client projects. Remained hands-on with front-end architecture and implementation using HTML5, CSS3, JavaScript, jQuery, and React.js.",
+      "note": ""
+    },
+    {
+      "company": "Setoo",
+      "formerlyKnownAs": "Geexu",
+      "title": "Lead UI Developer",
+      "location": "Pune Area, India",
+      "startDate": "2021",
+      "endDate": "2024",
+      "current": false,
+      "description": "Delivered front-end solutions for third-party client engagements using HTML5, CSS3, JavaScript, jQuery, and React.js. Collaborated with cross-functional teams to translate designs into responsive, production-ready interfaces.",
+      "note": ""
+    },
+    {
+      "company": "Setoo",
+      "formerlyKnownAs": "Geexu",
+      "title": "Senior UI Developer",
+      "location": "Pune Area, India",
+      "startDate": "2019",
+      "endDate": "2021",
+      "current": false,
+      "description": "Built and maintained UI components for client projects under the Geexu account, later rebranded to Setoo, with a focus on performance and cross-browser compatibility.",
+      "note": ""
+    },
+    {
+      "company": "Daphnisys",
+      "formerlyKnownAs": "",
+      "title": "UI Developer",
+      "location": "Pune Area, India",
+      "startDate": "2014-01",
+      "endDate": "2018-09",
+      "current": false,
+      "description": "Built and maintained the front-end of an e-commerce website using HTML5, CSS3, and JavaScript. Developed foundational front-end skills in responsive design and cross-browser compatibility.",
+      "note": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Himalayan University",
+      "degree": "Bachelor of Commerce (B.Com)",
+      "startDate": "2015",
+      "endDate": "2018"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional Working"
+    }
+  ],
+  "portfolio": [],
+  "visibility": {
+    "education": false,
+    "portfolio": false
+  },
+  "theme": {
+    "mode": "light",
+    "accentColor": "#4f46e5",
+    "fontFamily": "system"
+  }
+}
